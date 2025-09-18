@@ -3,7 +3,11 @@
 
 ## 🌟 Overview
 The **Book Store Project** is an online marketplace where users can **buy and sell books**.  
-With over **50 books** already listed, the platform supports **searching, filtering, and detailed book pages**, making it easy to discover, manage, and trade books.  
+With over **50 books** already listed, the platform supports **searching, filtering, and detailed book pages**, making it easy to discover, manage, and trade books. 
+# Project Title
+
+![Preview](https://ibb.co/6c5Rh708)
+
 
 ## ✨ Features
 - 🔍 **Search & Filter**: Find any book by its name or filter by topic/category.  
