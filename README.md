@@ -8,6 +8,7 @@ With over **50 books** already listed, the platform supports **searching, filter
 
 ![Preview](https://ibb.co/6c5Rh708)
 
+[Open in Figma](https://www.figma.com/design/tjjZVb9Qw9hgBGWMZmBuyi/Untitled?node-id=0-1&p=f&t=Kp7Z6Yke7KZbhNrf-0)
 
 ## ✨ Features
 - 🔍 **Search & Filter**: Find any book by its name or filter by topic/category.  
