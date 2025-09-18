@@ -6,7 +6,7 @@ The **Book Store Project** is an online marketplace where users can **buy and se
 With over **50 books** already listed, the platform supports **searching, filtering, and detailed book pages**, making it easy to discover, manage, and trade books. 
 # Project Title
 
-![Preview](https://ibb.co/6c5Rh708)
+![Preview](https://i.ibb.co/ymJnTcFp/Screenshot-2025-09-18-at-10-11-50-AM.png)
 
 [Open in Figma](https://www.figma.com/design/tjjZVb9Qw9hgBGWMZmBuyi/Untitled?node-id=0-1&p=f&t=Kp7Z6Yke7KZbhNrf-0)
 
